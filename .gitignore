@@ -1,0 +1,128 @@
+# dependencies
+name/react-server-app/node_modules
+name/react-server-app/.pnp
+name/react-server-app/.pnp.js
+
+# testing
+name/react-server-app/coverage
+
+# production
+name/react-server-app/build
+
+# misc
+name/react-server-app/.DS_Store
+name/react-server-app/.env.local
+name/react-server-app/.env.development.local
+name/react-server-app/.env.test.local
+name/react-server-app/.env.production.local
+
+name/react-server-app/npm-debug.log*
+name/react-server-app/yarn-debug.log*
+name/react-server-app/yarn-error.log*
+
+name/react-server-app/public/favicon.ico
+name/react-server-app/public/logo192.png
+name/react-server-app/public/logo512.png
+name/react-server-app/public/manifest.json
+name/react-server-app/public/robots.txt
+name/react-server-app/server.js
+name/react-server-app/src/App.css
+name/react-server-app/src/App.test.js
+name/react-server-app/src/index.css
+name/react-server-app/src/index.js
+name/react-server-app/src/logo.svg
+name/react-server-app/src/reportWebVitals.js
+name/react-server-app/src/setupTests.js
+
+# react-server-app/.gitignore
+# react-server-app/README.md
+# react-server-app/package-lock.json
+# react-server-app/package.json
+# react-server-app/public/index.html
+# react-server-app/src/App.js
+# react-server-app/src/components/aName/Comp1.js
+# react-server-app/src/components/aName/Comp2Named.js
+ 
+# dependencies
+tweet/tweet/node_modules
+tweet/tweet/.pnp
+tweet/tweet/tweet/react-server-app/.pnp.js
+
+# testing
+tweet/tweet/coverage
+
+# production
+tweet/tweet/build
+
+# misc
+tweet/tweet/.DS_Store
+tweet/tweet/.env.local
+tweet/tweet/.env.development.local
+tweet/tweet/.env.test.local
+tweet/tweet/.env.production.local
+
+tweet/tweet/npm-debug.log*
+tweet/tweet/yarn-debug.log*
+tweet/tweet/yarn-error.log*
+
+tweet/tweet/public/favicon.ico
+tweet/tweet/public/logo192.png
+tweet/tweet/public/logo512.png
+tweet/tweet/public/manifest.json
+tweet/tweet/public/robots.txt
+tweet/tweet/src/App.css
+tweet/tweet/src/App.test.js
+tweet/tweet/src/index.css
+tweet/tweet/src/index.js
+tweet/tweet/src/logo.svg
+tweet/tweet/src/reportWebVitals.js
+tweet/tweet/src/setupTests.js
+
+# tweet/tweet/.gitignore
+# tweet/tweet/README.md
+# tweet/tweet/package-lock.json
+# tweet/tweet/package.json
+# tweet/tweet/public/index.html
+# tweet/tweet/src/App.js
+ 
+# dependencies
+person/person/node_modules
+person/person/.pnp
+person/person/.pnp.js
+
+# testing
+person/person/coverage
+
+# production
+person/person/build
+
+# misc
+person/person/.DS_Store
+person/person/.env.local
+person/person/.env.development.local
+person/person/.env.test.local
+person/person/.env.production.local
+
+person/person/npm-debug.log*
+person/person/yarn-debug.log*
+person/person/yarn-error.log*
+
+person/person/public/favicon.ico
+person/person/public/logo192.png
+person/person/public/logo512.png
+person/person/public/manifest.json
+person/person/public/robots.txt
+person/person/src/App.css
+person/person/src/App.test.js
+person/person/src/index.css
+person/person/src/index.js
+person/person/src/logo.svg
+person/person/src/reportWebVitals.js
+person/person/src/setupTests.js
+
+# person/person/.gitignore
+# person/person/README.md
+# person/person/package-lock.json
+# person/person/package.json
+# person/person/public/index.html
+# person/person/src/App.js
